@@ -1,4 +1,5 @@
 # Paraguay
 El Visor de Paraguay contiene la información de los Puertos; Aeropuertos; Ferrocarril; Rutas primarias y secundarias; Cuerpos de agua; Ríos, Límites de Paraguay; La Capital Nacional y los Departamentos representados mediante la densidad poblacional (Pob/km2). Las principales fuentes de las cuales se tomaron los datos fueron las siguientes: 1) DIVA-GIS: Permite descargar información geográfica gratuita por país. URL:http://www.diva-gis.org/gdata 
 2) Instituto Nacional de Estadística (INE) de Paraguay: El informe "Proyección de la Población por Sexo y Edad, 2021", que contiene los principales indicadores demográficos, el estado y la estructura de la población al 2021 y las tendencias y perspectivas futuras de Paraguay. URL:https://www.ine.gov.py/news/news-contenido.php?cod-news=595 3) Geofabrik: Empresa de consultoría y desarrollo de software con sede en Karlsruhe, Alemania, especializada en servicios OpenStreetMap. URL:http://download.geofabrik.de/
+
 https://vanedevito.github.io/Paraguay/
